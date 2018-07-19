@@ -1,2 +1,0 @@
-# serverjenkins
-proyecto_servidores
